@@ -12,6 +12,8 @@ public class Person {
         this.name = name;
         this.gender = gender;
         this.dob = dob;
+        this.address = address;
+        this.phoneNumber = phoneNumber;
 
     }
 
@@ -35,6 +37,10 @@ public class Person {
 
     public String getAddress() {
         return address;
+    }
+
+    public String getPhoneNumber() {
+        return phoneNumber;
     }
 
 }
