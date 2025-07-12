@@ -5,18 +5,15 @@ The application accepts input from the console writes them to a file. The applic
 
 This application demonstrates the following elements in Java: variables, functions, data types, loops conditionals, etc as well as reading and writing to a file in Java.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Video Demo of Application](https://www.youtube.com/watch?v=LVVq2qI6q2Y)
 
 # Development Environment
 
-This application was written using Java language
-IDE USED WAS visual studio code
+-**Language:** Java Version 24.0.1 -**Editor:** Visual Studio Code
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
+-[Java Documentation](https://docs.oracle.com/en/java/index.html)
 
 # Future Work
 
