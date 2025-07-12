@@ -9,7 +9,8 @@ This application demonstrates the following elements in Java: variables, functio
 
 # Development Environment
 
--**Language:** Java Version 24.0.1 -**Editor:** Visual Studio Code
+- **Language:** Java Version 24.0.1
+- **Editor:** Visual Studio Code
 
 # Useful Websites
 
